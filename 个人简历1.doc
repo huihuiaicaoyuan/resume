@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>个人简历</title>
+<style>
+body { font-family: 'SimSun', serif; margin: 24px; }
+h1 { text-align: center; font-size: 28px; margin-bottom: 20px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #000; padding: 8px; font-size: 14px; }
+.section { background: #f2f2f2; font-weight: bold; text-align: left; }
+</style>
+</head>
+<body>
+<h1>个人简历</h1>
+<table>
+  <tr><td class="section" colspan="4">基本信息</td></tr>
+  <tr><td>姓名</td><td>刘警文</td><td>性别</td><td>男</td></tr>
+  <tr><td>出生年月</td><td>2001年8月</td><td>联系电话</td><td>138-0000-0000</td></tr>
+  <tr><td>电子邮箱</td><td>liujingwen@example.com</td><td>现居地</td><td>广东省广州市</td></tr>
+
+  <tr><td class="section" colspan="4">教育背景</td></tr>
+  <tr><td>毕业院校</td><td>华南某大学</td><td>专业</td><td>市场营销</td></tr>
+  <tr><td>学历</td><td>本科</td><td>毕业时间</td><td>2024年6月</td></tr>
+
+  <tr><td class="section" colspan="4">求职意向</td></tr>
+  <tr><td>意向岗位</td><td>市场专员 / 品牌推广</td><td>期望城市</td><td>广州 / 深圳</td></tr>
+
+  <tr><td class="section" colspan="4">实习与项目经历</td></tr>
+  <tr><td colspan="4">
+    1. 某消费品牌市场部实习生（2023.07 - 2023.10）<br>
+    - 协助策划社交媒体营销活动，累计触达用户超10万。<br>
+    - 跟进KOL投放流程，整理投放复盘报告并提出优化建议。<br><br>
+    2. 校园电商推广项目负责人（2022.09 - 2023.01）<br>
+    - 负责活动策划与执行，带领5人团队完成3场校园推广活动。<br>
+    - 通过问卷与用户访谈优化宣传文案，转化率提升约18%。
+  </td></tr>
+
+  <tr><td class="section" colspan="4">技能特长</td></tr>
+  <tr><td colspan="4">
+    - 熟悉市场调研、品牌传播与活动执行流程；<br>
+    - 熟练使用 Excel、PowerPoint、问卷星、Canva；<br>
+    - 具备基础数据分析能力，可独立完成活动复盘；<br>
+    - 普通话标准，具备良好沟通与团队协作能力。
+  </td></tr>
+
+  <tr><td class="section" colspan="4">自我评价</td></tr>
+  <tr><td colspan="4">性格积极主动，执行力强，对市场热点敏感，善于从用户视角思考营销问题。希望在实战中持续提升品牌运营与整合营销能力。</td></tr>
+</table>
+</body>
+</html>
